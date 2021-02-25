@@ -1,7 +1,7 @@
 ---
 author_profile: true
 title: 一些链接
-permalink: /links
+permalink: /links/
 layout: single
 comments: true
 ---
