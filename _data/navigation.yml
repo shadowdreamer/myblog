@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "分类"
+    url: /categories/
+  - title: "标签"
+    url: /tags/
+  - title: "链接"
+    url: /links/
+  - title: "关于"
+    url: /about
