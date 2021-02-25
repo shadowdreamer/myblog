@@ -3,6 +3,7 @@ author_profile: true
 title: 一些链接
 permalink: /links
 layout: single
+comments: true
 ---
 
 ## 一些自娱自乐的项目
