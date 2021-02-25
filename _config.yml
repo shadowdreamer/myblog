@@ -10,10 +10,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "摸鱼"
+title                    : "摸鱼空间"
 title_separator          : "-"
 subtitle                 : "进行一个🐟的摸"
-name                     : ""
+name                     : "dovahkiin"
 description              : "前端技术与二刺螈"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : 
@@ -24,7 +24,7 @@ masthead_title           : "摸鱼空间" # overrides the website title displaye
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "utterances", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -35,8 +35,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light" # "github-light" (default), "github-dark"
+    issue_term           : "shadowdreamer/shadowdreamer.github.io" # "pathname" (default)
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Dovahkiin"
   avatar           : "/assets/images/avatar.jfif"
-  bio              : "I am an **amazing** person."
+  bio              : "I am not a very **amazing** person."
   location         : "Jiangsu"
   links:
     - label: "Dovahkiin_Official"
