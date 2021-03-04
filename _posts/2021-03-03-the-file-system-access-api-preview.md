@@ -51,7 +51,7 @@ api使用大概都是这样：
 
 ## 保存单个文件的示例
 
-``` Javascript
+``` js
 document.querySelector('#btn').addEventListener('click',async ()=>{
     const blob = await (await fetch('https://files.catbox.moe/agyqq6.png')).blob()
     const dirHandler = await window.showDirectoryPicker()
